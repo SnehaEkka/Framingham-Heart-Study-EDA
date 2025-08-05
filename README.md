@@ -1,6 +1,6 @@
 # Framingham Heart Study EDA
 
-A data-driven exploration of cardiovascular risk and lifestyle factors in the landmark Framingham Heart Study. Developed as a self-guided project for BA780 (Fall 2024 – Spring 2025), this repository showcases a deep dive into the medical, demographic, and behavioral data collected over decades in the town of Framingham, Massachusetts.
+A data-driven exploration of cardiovascular risk and lifestyle factors in the landmark Framingham Heart Study. Developed as a self-guided project for BA780: Intro to Data Analytics Course (Fall 2024), this repository showcases a deep dive into the medical, demographic, and behavioral data collected over decades in the town of Framingham, Massachusetts.
 
 ## Project Motivation
 
